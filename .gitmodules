@@ -1,10 +1,18 @@
 [submodule "dwl"]
 	path = dwl
-	url = https://codeberg.org/dwl/dwl
-
+	url = https://codeberg.org/dwl/dwl.git
 [submodule "wlroots"]
 	path = wlroots
 	url = https://github.com/icpstr/icmroots.git
 [submodule "wayland-protocols"]
 	path = wayland-protocols
-	url = https://gitlab.freedesktop.org/wayland/wayland-protocols
+	url = https://gitlab.freedesktop.org/wayland/wayland-protocols.git
+[submodule "web"]
+	path = web
+	url = https://github.com/icpstr/web.git
+[submodule "client/rs"]
+	path = client/rs
+	url = https://github.com/icpstr/icmrs.git
+[submodule "client/ts"]
+	path = client/ts
+	url = https://github.com/icpstr/icmts.git
