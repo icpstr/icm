@@ -10,9 +10,3 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/icpstr/web.git
-[submodule "client/rs"]
-	path = client/rs
-	url = https://github.com/icpstr/icmrs.git
-[submodule "client/ts"]
-	path = client/ts
-	url = https://github.com/icpstr/icmts.git
